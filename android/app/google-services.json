@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "416456896686",
+    "firebase_url": "https://rakfoodie-dev1.firebaseio.com",
+    "project_id": "rakfoodie-dev1",
+    "storage_bucket": "rakfoodie-dev1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416456896686:android:670791eea3457f4a573d3f",
+        "android_client_info": {
+          "package_name": "com.rak.mobility.dev.rakfoodie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416456896686-59ckgg09qg3qolmh688ha4m92vn2f4j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkG-ejirQ796pm4pz5ZNhHozkM_B4fGf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416456896686-59ckgg09qg3qolmh688ha4m92vn2f4j5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "416456896686-nbl2rfjragv3r34udp5uog45acoa6mdt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rak.mobility.dev.rakfoodie"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
